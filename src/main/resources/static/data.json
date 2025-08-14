@@ -1,0 +1,7 @@
+[
+        {"id":"1", "fname":"Sakshi", "lname":"Kokare", "subject":"Java", "city":"Pune"},
+       { "id":"2", "fname":"Vedika", "lname":"Bhosale", "subject":"Python", "city":"Nashik"},
+       {"id":"3", "fname":"Sneha", "lname":"Hosadodde", "subject":"C", "city":"Mumbai"},
+       {"id":"4", "fname":"Siddhi", "lname":"Zagade", "subject":"C++", "city":"Banglore"},
+       {"id":"5", "fname":"Aditi", "lname":"Sinha", "subject":"Android", "city":"Chennai"}
+]
