@@ -10,6 +10,7 @@ public class TestController {
 	
 	@RequestMapping(value = "/")
     public String forward() {
+		System.out.println("Controller called");
         return "forward:/index.html";
     }
 
